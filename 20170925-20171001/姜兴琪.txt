@@ -1,0 +1,28 @@
+这周完成了相关框架的搭建任务
+
+1.在github上注册organization，并将6位开发人员邀请进入organization，赋予读写权限。
+
+组织地址为：https://github.com/CUEBer
+
+2.在CUEBer该组织下新建5个仓库
+
+spring boot ：https://github.com/CUEBer/degree_evaluate_server
+
+angular ：https://github.com/CUEBer/degree_evaluate_angular
+
+h5 ： https://github.com/CUEBer/degree_evaluate_h5
+
+share 知识共享 : https://github.com/CUEBer/share
+
+周报 ：https://github.com/CUEBer/report
+
+2. 完成springboot框架的搭建，使用gradle来管理jar包，供后端开发人员参考
+
+地址为：https://github.com/jxq0816/spring_boot_gradle
+
+3. 完成AngularJS框架的搭建，并可以与server服务器通信，并已提交angular开发仓库
+
+搭建流程可参考博客：http://blog.csdn.net/jxq0816/article/details/78147904
+
+4. 分析学校官网的H5源代码，上传至 https://github.com/CUEBer/degree_evaluate_h5/tree/master/cueb_index
+
