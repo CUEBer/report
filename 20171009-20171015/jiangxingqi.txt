@@ -16,9 +16,10 @@
 
    ④操作系统的不一致
 
-3. 总结了如何新建gradle项目，并添加springboot框架支持
+3. 搭建springboot框架
 
-   http://blog.csdn.net/jxq0816/article/details/78214994
+   手动：http://blog.csdn.net/jxq0816/article/details/78214994
+   自动：http://blog.csdn.net/jxq0816/article/details/78240555
 
 4. 学习了使用postman工具，来模拟OAuth2登录，并成功获取token
 
